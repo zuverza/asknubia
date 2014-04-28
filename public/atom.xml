@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-04-27T20:02:46-06:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Ask Nubia]]></title>
+  <link href="http://asknubia.com/atom.xml" rel="self"/>
+  <link href="http://asknubia.com/"/>
+  <updated>2014-04-27T20:42:10-06:00</updated>
+  <id>http://asknubia.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Nubia]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Toyota Mr2 2001 Engine Overhaul]]></title>
-    <link href="http://yoursite.com/blog/2014/04/27/toyota-mr2-2001-engine-overhaul/"/>
+    <link href="http://asknubia.com/blog/2014/04/27/toyota-mr2-2001-engine-overhaul/"/>
     <updated>2014-04-27T19:59:35-06:00</updated>
-    <id>http://yoursite.com/blog/2014/04/27/toyota-mr2-2001-engine-overhaul</id>
+    <id>http://asknubia.com/blog/2014/04/27/toyota-mr2-2001-engine-overhaul</id>
     <content type="html"><![CDATA[<table>
     <tr>
         <th style="text-align:center;" >
@@ -28,12 +28,12 @@
         </th>
     </tr>
     <tr>
-        <td><img class="left" src="http://yoursite.com/images/MR2/mr2_engine_1.png" width="320" height="320" title="image" alt="images"></td>
-        <td><img class="right" src="http://yoursite.com/images/MR2/mr2_engine_2.png" width="320" height="320" title="image" alt="images"></td>
+        <td><img class="left" src="http://asknubia.com/images/MR2/mr2_engine_1.png" width="320" height="320" title="image" alt="images"></td>
+        <td><img class="right" src="http://asknubia.com/images/MR2/mr2_engine_2.png" width="320" height="320" title="image" alt="images"></td>
     </tr>
     <tr>
-        <td><img class="left" src="http://yoursite.com/images/MR2/mr2_engine_3.png" width="320" height="320" title="image" alt="images"></td>
-        <td><img class="right" src="http://yoursite.com/images/MR2/mr2_engine_4.png" width="320" height="320" title="image" alt="images"></td>
+        <td><img class="left" src="http://asknubia.com/images/MR2/mr2_engine_3.png" width="320" height="320" title="image" alt="images"></td>
+        <td><img class="right" src="http://asknubia.com/images/MR2/mr2_engine_4.png" width="320" height="320" title="image" alt="images"></td>
     </tr>
 </table>
 
@@ -51,14 +51,14 @@
 </div>
 
 
-<p><img class="center" src="http://yoursite.com/images/MR2/mr2_no_engine.png" width="1000" height="268" title="image" alt="images"></p>
+<p><img class="center" src="http://asknubia.com/images/MR2/mr2_no_engine.png" width="1000" height="268" title="image" alt="images"></p>
 
 <div>
 My spyder’s broken heart:
 </div>
 
 
-<p><img class="center" src="http://yoursite.com/images/MR2/mr2_broken_heart.png" width="400" height="400" title="image" alt="images"></p>
+<p><img class="center" src="http://asknubia.com/images/MR2/mr2_broken_heart.png" width="400" height="400" title="image" alt="images"></p>
 
 <div>
 The story started with a constant “click click” noise that bothered me even though the car performed ok.  With ok I mean reasonably, but not as I wish it to respond when increasing rpms.  Check engine light went on, oil was “disappearing” and the car warmed over the limit, but the temperature gauge was showing normal temperature.  I noticed the car was hotter than it should because the plastic covers for the shocks/struts next to the engine showed signs of molten plastic (plastics were deformed).
@@ -77,8 +77,8 @@ The story started with a constant “click click” noise that bothered me even 
 </div>
 
 
-<p><img class="left" src="http://yoursite.com/images/MR2/mr2_unmounted_engine.png" width="320" height="320" title="image" alt="images">
-<img class="right" src="http://yoursite.com/images/MR2/mr2_unmounted_engine_2.png" width="320" height="320" title="image" alt="images"></p>
+<p><img class="left" src="http://asknubia.com/images/MR2/mr2_unmounted_engine.png" width="320" height="320" title="image" alt="images">
+<img class="right" src="http://asknubia.com/images/MR2/mr2_unmounted_engine_2.png" width="320" height="320" title="image" alt="images"></p>
 
 <div style="clear:both;"></div>
 
@@ -90,14 +90,14 @@ The story started with a constant “click click” noise that bothered me even 
 </div>
 
 
-<p><img class="center" src="http://yoursite.com/images/MR2/mr2_pistons.png" width="320" height="320" title="image" alt="images"></p>
+<p><img class="center" src="http://asknubia.com/images/MR2/mr2_pistons.png" width="320" height="320" title="image" alt="images"></p>
 
 <div>
     The engine block went to a machine shop to widen the cylinders’ diameter:
 </div>
 
 
-<p><img class="center" src="http://yoursite.com/images/MR2/mr2_measuring_pistons.png" width="320" height="320" title="image" alt="images"></p>
+<p><img class="center" src="http://asknubia.com/images/MR2/mr2_measuring_pistons.png" width="320" height="320" title="image" alt="images"></p>
 
 <div>
     I also acquired new valves, gaskets, seals.  Especially important is the main oil seal (between the engine and the transmission) that once it goes bad, is expensive to replace due to labor that requires removing the engine to reach the cheap seal.  For that reason, even though mine looked ok, I decided to change the seal as a preventive service.  Plastic parts that degrade with time and leaks can happen.  From the materials point of view polymers are prone to degradation due to environmental aging.  Specifically humidity (hydrogen and oxygen) and UV light attack and break the polymer chains.  Plastics then lose their mechanical properties such as flexibility and elasticity.  Therefore, rubber seals might not be performing properly after few years (I’ll guess after 5-10 years depending on variables such as maintenance, weather, etc.).  Following is the kit I bought from ebay:
@@ -109,14 +109,14 @@ The story started with a constant “click click” noise that bothered me even 
 <div style="clear:both;">&nbsp;</div>
 
 
-<p><img class="center" src="http://yoursite.com/images/MR2/mr2_gasket_full_set.png" width="320" height="320" title="image" alt="images"></p>
+<p><img class="center" src="http://asknubia.com/images/MR2/mr2_gasket_full_set.png" width="320" height="320" title="image" alt="images"></p>
 
 <div>
     When putting the engine back together, the mechanic noticed that the intake manifold had something inside.  I was able to put get my hand inside and discovered that an internal piece was broken ☹  Therefore, I also bought a manifold out of a corolla from a junk yard.
 </div>
 
 
-<p><img class="center" src="http://yoursite.com/images/MR2/mr2_manifold.png" width="320" height="320" title="image" alt="images"></p>
+<p><img class="center" src="http://asknubia.com/images/MR2/mr2_manifold.png" width="320" height="320" title="image" alt="images"></p>
 
 <div>
     Obviously spark plugs and ignition coils were changed for new DENSO ones.
@@ -135,8 +135,8 @@ The story started with a constant “click click” noise that bothered me even 
 </div>
 
 
-<p><img class="left" src="http://yoursite.com/images/MR2/mr2_rebuilt_engine.png" width="320" height="320" title="image" alt="images">
-<img class="right" src="http://yoursite.com/images/MR2/mr2_rebuilt_engine_2.png" width="320" height="320" title="image" alt="images"></p>
+<p><img class="left" src="http://asknubia.com/images/MR2/mr2_rebuilt_engine.png" width="320" height="320" title="image" alt="images">
+<img class="right" src="http://asknubia.com/images/MR2/mr2_rebuilt_engine_2.png" width="320" height="320" title="image" alt="images"></p>
 
 <div style="clear:both;">&nbsp;</div>
 
