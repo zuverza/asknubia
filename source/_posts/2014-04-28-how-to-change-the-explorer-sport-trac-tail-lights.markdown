@@ -17,6 +17,7 @@ categories:
 
 				<div class="entry">
 					<p>My sport trac tail light covers needed maintenance replacement. I decided to spray paint them. This post shows how to take the covers off and back on.</p>
+					<!-- more -->
 <p>&nbsp;</p>
 <p><a href="http://www.asknubia.com/how-to-change-the-explorer-sport-trac-tail-lights/picture1/"  rel="attachment wp-att-14"><img class="alignnone size-medium wp-image-14" alt="Picture1" src="http://www.asknubia.com/wp-content/uploads/2013/03/Picture1-225x300.jpg" width="225" height="300" /></a></p>
 <p>&nbsp;<br />
